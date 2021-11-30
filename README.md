@@ -17,6 +17,8 @@ Overall Goal: Design marketing strategies aimed at converting casual riders into
 
 Business Question: "How do annual members and casual riders use Cyclistic bikes differently?"
 
+
+
 Find the detailed case study [here](https://dianasatapathy.medium.com/google-data-analytics-capstone-project-cyclistic-case-study-522e060575f4)
 
-Tableau Dashboard: [viz](https://public.tableau.com/app/profile/diana.satapathy/viz/CyclisticBikeShareAnalysis_16382112768360/Dashboard2)
+Tableau Dashboard: [viz](https://public.tableau.com/app/profile/diana.satapathy/viz/CyclisticBikeShareAnalysis_16382112768360/Dashboard2?publish=yes)
